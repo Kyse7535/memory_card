@@ -10,25 +10,6 @@ object-assign
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 
-/*!
- * MDB5
- *   Version: FREE 3.3.0
- * 
- * 
- *   Copyright: Material Design for Bootstrap
- *   https://mdbootstrap.com/
- * 
- *   Read the license: https://mdbootstrap.com/general/license/
- * 
- * 
- *   Documentation: https://mdbootstrap.com/docs/standard/
- * 
- *   Support: https://mdbootstrap.com/support/
- * 
- *   Contact: office@mdbootstrap.com
- * 
- */
-
 /** @license React v0.20.1
  * scheduler.production.min.js
  *
