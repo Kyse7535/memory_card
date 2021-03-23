@@ -17,3 +17,12 @@ code {
 .cursor-pointer {
     cursor: pointer;
 }
+
+.img-card {
+    width: 50%;
+    height: auto;
+}
+
+.title-card {
+    font-size: calc(9px + 0.3vw);
+}
