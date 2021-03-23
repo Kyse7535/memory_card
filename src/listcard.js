@@ -21,7 +21,6 @@ const ListCard = (props) => {
         .then((response) => response.data.results)
         .then((response) => {
           response.forEach((element) => {
-            //console.log(element);
             maliste.push({
               id: element["id"],
               nom: element["title"],
@@ -56,7 +55,7 @@ const ListCard = (props) => {
 
   const changeliste = () => {
     changeScore(score + 1);
-    console.log(carteSelected);
+
     initliste(listeCard);
   };
 
