@@ -15,7 +15,7 @@ const ListCard = (props) => {
     if (listeCard.length === 0) {
       const maliste = [];
       fetch(
-        "https://gateway.marvel.com:443/v1/public/characters/1009165/comics?limit=25&apikey=2f336d6ed425b8bb4bc1b4740acd4648"
+        "https://gateway.marvel.com:443/v1/public/characters/1009165/comics?limit=29&apikey=2f336d6ed425b8bb4bc1b4740acd4648"
       )
         .then((response) => response.json())
         .then((response) => response.data.results)
